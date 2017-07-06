@@ -8,9 +8,5 @@
     firebase.initializeApp(config);
 
     var angularModule = angular.module('app', ['firebase'])
-        .controller('MyCtrl', function MyCtrlF($firebaseObject, $scope) {
-            $scope.rootRef = firebase.database().ref();
-            $scope.ref = $scope.rootRef.child('Polideportivos');
-            $scope.polideportivos = $firebaseObject($scope.ref);
-        });
+        .controller('MyCtrl', MyCtrlF);
 }());
