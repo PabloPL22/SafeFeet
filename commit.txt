@@ -1,0 +1,17 @@
+commit 1d02628a0e56f0b17c2bcf2dd4e73771cdab479b
+Author: PabloPL22 <pabloplmelli@gmail.com>
+Date:   Thu Jul 6 12:10:47 2017 +0200
+
+    Enrredo
+
+commit ec012cc6928c43f95807b75682e5431e0cf46f1a
+Author: PabloPL22 <pabloplmelli@gmail.com>
+Date:   Thu Jul 6 12:00:55 2017 +0200
+
+    Código modularizado v1
+
+commit 77b3ee4f22d5dcdf50bed5587d6e2af3852341b5
+Author: PabloPL22 <pabloplmelli@gmail.com>
+Date:   Thu Jul 6 11:57:59 2017 +0200
+
+    Iniciamos
